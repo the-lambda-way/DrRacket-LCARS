@@ -1,7 +1,7 @@
 # DrRacket-LCARS
 An LCARS theme for DrRacket
 
-I haven't used DrRacket in a while, so this is just a dump of the files. Next time I start using DrRacket, I'll update this repo if necessary. One flaw I noticed in particular, the parentheses highlighting may be too dim for some screens or lighting (see screenshot).
+I haven't used DrRacket in a while, so this is just a dump of the info file. Next time I start using DrRacket, I'll update this repo if necessary. One flaw I noticed in particular, the parentheses highlighting may be too dim for some screens or lighting (see screenshot).
 
 ## Racket color schemes instructions:
 https://docs.racket-lang.org/drracket/color-scheme.html
